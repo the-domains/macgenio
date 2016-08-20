@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T04:30:11.431Z'
+datePublished: '2016-08-20T04:32:07.209Z'
 sourcePath: _posts/2016-08-20-capitulo-de-programa.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T04:30:10.889Z'
+dateModified: '2016-08-20T04:32:06.589Z'
 title: Capitulo de Programa
 publisher: {}
 description: ''
