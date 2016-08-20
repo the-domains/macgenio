@@ -16,5 +16,8 @@ navigation:
   - name: About Me
     id: deef281e-686d-4f98-9fbf-ce1089a64f78
     type: content
+  - name: Home
+    id: c5662c0a-3666-4b76-9856-7c76ea11a84a
+    type: content
 title: MacGenio
 description: Technology News & Trends
