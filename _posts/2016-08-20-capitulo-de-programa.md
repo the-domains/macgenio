@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-20T04:21:43.374Z'
+datePublished: '2016-08-20T04:30:11.431Z'
 sourcePath: _posts/2016-08-20-capitulo-de-programa.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T04:21:42.749Z'
+dateModified: '2016-08-20T04:30:10.889Z'
 title: Capitulo de Programa
 publisher: {}
 description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: capitulo-de-programa/index.html
+_type: Blurb
 
 ---
 # Capitulo de Programa
