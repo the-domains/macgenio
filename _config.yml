@@ -1,0 +1,14 @@
+layout_spectrum: 0.24068998964503407
+typography_spectrum: 0.5431135981343687
+color:
+  brandStrength: 0.26882324554026127
+  lightness: 0.8674133459571749
+  saturation: 0.3161927848123014
+  rhythmicContrast: 0.19171010050922632
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: MacGenio
