@@ -1,13 +1,13 @@
 ---
-description: 'https://www.youtube.com/watch?v=9WACBiLo53U'
-dateModified: '2016-08-20T04:14:20.556Z'
-datePublished: '2016-08-20T04:14:55.096Z'
-title: Capitulo de Programa
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-20T04:21:43.374Z'
 sourcePath: _posts/2016-08-20-capitulo-de-programa.md
+author: []
+via: {}
+dateModified: '2016-08-20T04:21:42.749Z'
+title: Capitulo de Programa
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,4 +16,4 @@ _type: MediaObject
 ---
 # Capitulo de Programa
 
-https://www.youtube.com/watch?v=9WACBiLo53U
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NhyyL69QZu4" frameborder="0" allowfullscreen></iframe>
