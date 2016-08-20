@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-19T23:39:41.070Z'
+datePublished: '2016-08-20T04:00:15.821Z'
 sourcePath: >-
   _posts/2016-04-16-apple-challenges-government-demand-to-crack-drug-dealers-ip.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy
-hasPage: false
+hasPage: true
 keywords:
   - apple
   - bernardino
@@ -19,7 +17,7 @@ keywords:
   - department
 related: []
 author: []
-dateModified: '2016-08-19T23:39:40.418Z'
+dateModified: '2016-08-20T04:00:15.351Z'
 title: Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York
 app_links:
   - url: >-
@@ -58,6 +56,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: apple-challenges-government-demand-to-crack-drug-dealers-ip/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
