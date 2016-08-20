@@ -6,9 +6,9 @@ color:
   saturation: 0.3161927848123014
   rhythmicContrast: 0.19171010050922632
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: MacGenio
