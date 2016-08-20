@@ -12,5 +12,9 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.24068998964503407
 name: MacGenio
+navigation:
+  - name: About Me
+    id: deef281e-686d-4f98-9fbf-ce1089a64f78
+    type: content
 title: MacGenio
 description: Technology News & Trends
